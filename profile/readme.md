@@ -83,14 +83,14 @@ Berikut struktur repositori resmi dalam organisasi:
 
 ## 👥 Anggota Tim
 
-| Nama                 | ID Asah     | Role                     | Universitas            |
-| -------------------- | ----------- | ------------------------ | ---------------------- |
-| Daniel Siahaan       | R114D5Y0424 | React & Back-End with AI | Institut Teknologi Del |
-| Muhammad Sauki F. W. | R568D5Y1380 | React & Back-End with AI | -                      |
-| Muhammad Rahman      | R216D5Y1348 | React & Back-End with AI | -                      |
-| Fadia Zahran Zain    | M013D5X0558 | Machine Learning         | -                      |
-| Nuraisi Maba Alhuda  | R284D5Y1540 | React & Back-End with AI | -                      |
-| Rasya Khairi Najib   | M901D5Y1656 | Machine Learning         | -                      |
+| Nama                 | ID Asah     | Role                     | Universitas                                                         |
+| -------------------- | ----------- | ------------------------ | ------------------------------------------------------------------- |
+| Daniel Siahaan       | R114D5Y0424 | React & Back-End with AI | Institut Teknologi Del                                              |
+| Muhammad Sauki F. W. | R568D5Y1380 | React & Back-End with AI | UIN Walisongo Semarang                                              |
+| Muhammad Rahman      | R216D5Y1348 | React & Back-End with AI | Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin |
+| Fadia Zahran Zain    | M013D5X0558 | Machine Learning         | Universitas Terbuka                                                 |
+| Nuraisi Maba Alhuda  | R284D5Y1540 | React & Back-End with AI | Universitas Negeri Surabaya                                         |
+| Rasya Khairi Najib   | M901D5Y1656 | Machine Learning         | Politeknik STMI Jakarta                                             |
 
 ---
 
