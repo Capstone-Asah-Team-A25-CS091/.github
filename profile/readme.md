@@ -53,7 +53,7 @@ Platform ini dirancang untuk memberikan:
 - **Scoring probabilitas (0–100%)** calon nasabah
 - **Analisis faktor penting** melalui feature importance
 - **Dashboard interaktif** berbasis React/Next.js
-- **API terintegrasi** (Flask/FastAPI/Express)
+- **API terintegrasi** (Hapi.js)
 - **Manajemen data** menggunakan PostgreSQL/MySQL
 
 Tujuannya? Meningkatkan efisiensi, konversi, dan mengurangi biaya akuisisi dalam kampanye pemasaran perbankan.
@@ -76,7 +76,7 @@ Berikut struktur repositori resmi dalam organisasi:
 ## 🧠 Tech Stack Utama
 
 - **Machine Learning**: Python, Scikit-Learn, XGBoost, Pandas, NumPy
-- **Web Development**: React, Next.js, Express, Flask, FastAPI
+- **Web Development**: React, Next.js, Hapi.js
 - **Database**: PostgreSQL, MySQL
 - **Tools**: Google Colab, VSCode, GitHub Actions
 
