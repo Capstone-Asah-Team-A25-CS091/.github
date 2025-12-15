@@ -69,6 +69,7 @@ Berikut struktur repositori resmi dalam organisasi:
 | **bankscoreai-frontend** | Kode sumber untuk aplikasi Frontend (React/Next.js) — antarmuka portal scoring dan dashboard analitik. | [https://github.com/Capstone-Asah-Team-A25-CS091/bankscoreai-frontend](https://github.com/Capstone-Asah-Team-A25-CS091/bankscoreai-frontend) |
 | **bankscoreai-backend**  | Kode sumber Backend API, integrasi model ML, autentikasi, dan komunikasi data.                         | [https://github.com/Capstone-Asah-Team-A25-CS091/bankscoreai-backend](https://github.com/Capstone-Asah-Team-A25-CS091/bankscoreai-backend)   |
 | **.github**              | Workflow, dokumentasi standar organisasi, template issue/PR, dan profil organisasi.                    | [https://github.com/Capstone-Asah-Team-A25-CS091/.github](https://github.com/Capstone-Asah-Team-A25-CS091/.github)                           |
+| **bankscoreai-model**    | Kode sumber untuk model machine learningnya                                                            | [https://github.com/Capstone-Asah-Team-A25-CS091/bankscore-model](https://github.com/Capstone-Asah-Team-A25-CS091/bankscore-model)                   |
 
 ---
 
