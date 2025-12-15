@@ -1,6 +1,10 @@
 # 🌐 Capstone-Asah-Team-A25-CS091
 
 <p align="center">
+  <img src="../assets/logo-horizontal.png" alt="Bank Score AI Banner" style="width:100%; max-width:1100px; min-width:320px; display:block;"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Asah-Dicoding-000000?style=for-the-badge&logo=dicoding&logoColor=white"/>
   <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=accenture&logoColor=white"/>
 </p>
